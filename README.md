@@ -75,8 +75,11 @@ Java console application to track and export study sessions.
 
 # 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gk2001-cra&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk2001-cra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gk2001-cra&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk2001-cra&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
