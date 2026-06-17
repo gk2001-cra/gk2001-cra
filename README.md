@@ -20,7 +20,7 @@ Electronics & Telecommunication Engineering graduate passionate about building r
 ---
 
 # 👨‍💻 About Me
-- Strong foundation in **Java, C, C++, and C#**
+- Strong foundation in **Java, C, C++, C# and Python**
 - Backend development using **Spring Boot**
 - Web development using **HTML, CSS, JavaScript**
 - Experience with **REST APIs, MySQL, MongoDB**
@@ -42,6 +42,7 @@ Electronics & Telecommunication Engineering graduate passionate about building r
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
@@ -71,6 +72,8 @@ Spring Boot project with REST APIs and MongoDB for managing students and batches
 ### 📚 Study Tracker App
 Java console application to track and export study sessions.
 
+### 🤟 Sign Language Recognition System — 
+Real-time hand gesture recognition system using Python, MediaPipe, OpenCV, and TensorFlow.
 ---
 
 # 📊 GitHub Stats
