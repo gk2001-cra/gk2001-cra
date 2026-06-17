@@ -74,6 +74,7 @@ Java console application to track and export study sessions.
 
 ### 🤟 Sign Language Recognition System — 
 Real-time hand gesture recognition system using Python, MediaPipe, OpenCV, and TensorFlow.
+
 ---
 
 # 📊 GitHub Stats
